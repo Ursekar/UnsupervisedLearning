@@ -3,8 +3,8 @@ Customer Segmentation for Germany based Arvato Finance Solution: Mail-Order Sale
 
 **Project Overview:**  
 I have worked with real-life data provided to me by **Bertelsmann partners AZ Direct and Arvato Finance Solution**. The data here concerns a company that performs mail-order sales in Germany. Their main question of interest is to identify facets of the population that are most likely to be purchasers of their products for a mailout campaign.  
-*Note: The data was not loaded here due to copy rights restrictions and size of data larger than GitHub Repo can accomodate.*  
 
+*Note: The data was not loaded here due to copy rights restrictions and size of data larger than GitHub Repo can accomodate.*  
 
 **Goal:**  
 Each row of the demographics files represents a single person, but also includes information outside of individuals, including information about their household, building, and neighborhood. This information will be used to cluster the general population into groups with similar demographic properties. Then, I will see how the people in the customers dataset fit into those created clusters. The hope here is that certain clusters are over-represented in the customers data, as compared to the general population; those over-represented clusters will be assumed to be part of the core userbase. This information can then be used for further applications, such as targeting for a marketing campaign.
